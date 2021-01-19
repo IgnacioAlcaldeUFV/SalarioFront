@@ -21,6 +21,7 @@ public class EmpleadoBRTest {
 
         // fail("Esto es un error a proposito");
 
+
         assertTrue("Este si pasa", true);
     }
 
