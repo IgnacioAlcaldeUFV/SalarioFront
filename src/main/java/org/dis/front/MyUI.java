@@ -87,7 +87,7 @@ public class MyUI extends UI {
 
         // Botón salario bruto
 
-        Button calculaBruto = new Button("Calcular salario bruto");
+        Button calculaBruto = new Button("Calcular salario bruto!!!!!!");
         calculaBruto.addClickListener(e -> {
 
             String tipoEmpleadoIn = select.getValue();
